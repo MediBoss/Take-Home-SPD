@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B81C0D8A22F7C263009A192E /* WeatherService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B81C0D8922F7C263009A192E /* WeatherService.swift */; };
+		B81C0D8C22F7C27C009A192E /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = B81C0D8B22F7C27C009A192E /* Weather.swift */; };
 		B838652922F77FCF0020CA85 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B838652822F77FCF0020CA85 /* AppDelegate.swift */; };
 		B838652B22F77FCF0020CA85 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B838652A22F77FCF0020CA85 /* ViewController.swift */; };
 		B838652E22F77FCF0020CA85 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B838652C22F77FCF0020CA85 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B81C0D8922F7C263009A192E /* WeatherService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherService.swift; sourceTree = "<group>"; };
+		B81C0D8B22F7C27C009A192E /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
 		B838652522F77FCF0020CA85 /* Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Weather.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B838652822F77FCF0020CA85 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B838652A22F77FCF0020CA85 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				B838652F22F77FD00020CA85 /* Assets.xcassets */,
 				B838653122F77FD00020CA85 /* LaunchScreen.storyboard */,
 				B838653422F77FD00020CA85 /* Info.plist */,
+				B81C0D8922F7C263009A192E /* WeatherService.swift */,
+				B81C0D8B22F7C27C009A192E /* Weather.swift */,
 			);
 			path = Weather;
 			sourceTree = "<group>";
@@ -135,7 +141,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B81C0D8C22F7C27C009A192E /* Weather.swift in Sources */,
 				B838652B22F77FCF0020CA85 /* ViewController.swift in Sources */,
+				B81C0D8A22F7C263009A192E /* WeatherService.swift in Sources */,
 				B838652922F77FCF0020CA85 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
