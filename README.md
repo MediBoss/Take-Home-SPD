@@ -24,7 +24,7 @@ This project took me 1 hour and 15 minutes of accumulated time.
 
 # File/Folder Structure
 
-``` python
+`` python
   root/
 |
 |
@@ -37,7 +37,7 @@ This project took me 1 hour and 15 minutes of accumulated time.
                                                                      
 |-- README.md  
 
-``` 
+``
 
 <img src="sc.png" width = 300 height = 570></scr>
 
