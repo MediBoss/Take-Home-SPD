@@ -1,5 +1,3 @@
-# Take-Home-SPD
-
 # Overview
 This is a mock tack-home coding assignment from SPD 1.01 class at Make School.
 
@@ -22,22 +20,6 @@ This project took me 1 hour and 15 minutes of accumulated time.
 - Networking laying: 10-15 minutes
 - Modeling JSON: 10 minutes
 
-# File/Folder Structure
-
-`` python
-  root/
-|
-|
-|-- Take-Home-SPD/
-        |-- Weather
-                |-- Model                               
-                |-- Controller             
-                |-- Networking  
-                |-- Supporting Files              
-                                                                     
-|-- README.md  
-
-``
 
 <img src="sc.png" width = 300 height = 570></scr>
 
