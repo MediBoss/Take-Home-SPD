@@ -2,6 +2,6 @@
 
 This is a mock tack-home coding assignment mimicking a ral company's assignement.
 
-<img src="sc.png" width = 300 height = 400></scr>
+<img src="sc.png" width = 300 height = 470></scr>
 
 
